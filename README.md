@@ -1,2 +1,2 @@
-# JogoDaVelha-Python
+# JogoDaVelha
  Projeto jogo da velha com Pyhton 
